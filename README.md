@@ -2,6 +2,9 @@
 
 Trabalho prático Swing e JDBC
 
+## Diagrama de classes
+
+![Diagrama de Classes](diagrama_de_classes.png)
 
 
 ## O sistema terá os seguintes requisitos:
@@ -29,15 +32,24 @@ d. Um botão para incluir o produto selecionado no pedido do cliente, informando
 
 5. Considere as seguintes tabelas do banco de dados e crie as classes DAO necessárias para persistência:
 
+    ![Tabelas MySQL](tabelas_mysql.png)
+
+
 ## O programa acima deve utilizar as seguintes tecnologias:
+
   - Java Swing
   - JDBC para persistência em banco de dados. Utilize o Design Pattern “Data Access Object” para persistência.
+
+
 ## Itens para serem entregues:
+
 1. Projeto na IDE Eclipse ou Netbeans com código fonte
 2. Script para criação do banco de dados
 3. Arquivo .jar executável
 
+
 ## Avaliação:
+
  - Material entregue
  - Qualidade do software (bugs encontrados na defesa)
  - Defesa do código e a nota será individual, considerando a defesa

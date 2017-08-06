@@ -19,13 +19,13 @@ d. Um botão para incluir o produto selecionado no pedido do cliente, informando
 4. Uma tela para listar o pedido de um cliente.
   - Um campo para informar o CPF do cliente.
   - Um botão para listar os itens do pedido do cliente
-  - Uma tabela para mostrar os itens do pedido:
+  - Uma tabela para mostrar os itens do pedido
 
-|Produto                  |Quantidade|
-| ----------------------- | -------- |
-|Papel A4                 |2         |
-|Caneta esferográfica azul|20        |
-|Pasta                    |2         |
+    |Produto                  |Quantidade|
+    | ----------------------- | -------- |
+    |Papel A4                 |2         |
+    |Caneta esferográfica azul|20        |
+    |Pasta                    |2         |
 
 5. Considere as seguintes tabelas do banco de dados e crie as classes DAO necessárias para persistência:
 
